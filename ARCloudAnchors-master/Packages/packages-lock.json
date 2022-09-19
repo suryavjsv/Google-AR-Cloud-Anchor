@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.google.ar.core.arfoundation.extensions": {
-      "version": "file:D:/TataElxsi Files/Unity Projects/Augmented Reality/OneDrive_2022-09-13/Google AR Cloud Anchors/arcore-unity-extensions",
+      "version": "file:D:/TataElxsi Files/Unity Projects/Augmented Reality/Google AR Cloud git/arcore-unity-extensions",
       "depth": 0,
       "source": "local",
       "dependencies": {

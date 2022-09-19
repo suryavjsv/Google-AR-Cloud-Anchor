@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.google.ar.core.arfoundation.extensions": "file:D:/TataElxsi Files/Unity Projects/Augmented Reality/OneDrive_2022-09-13/Google AR Cloud Anchors/arcore-unity-extensions",
+    "com.google.ar.core.arfoundation.extensions": "file:D:/TataElxsi Files/Unity Projects/Augmented Reality/Google AR Cloud git/arcore-unity-extensions",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.ide.rider": "3.0.15",
